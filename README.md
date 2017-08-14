@@ -5,7 +5,8 @@
 
 本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
 
-**公众号文章分类汇总：**[请点击链接查看]()
+**公众号文章分类汇总：**
+(a) [微信链接](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484025&idx=1&sn=f6fe4f6004a3f81e3eb03e6edd247ebb&chksm=ea8b6d0addfce41c5b2a6cf731648fae41d5ae81a9bb670b1c2338058362880934e3fa7b2972#rd)  (b) [github链接](https://github.com/leenard2017/PyDataRoad/blob/master/Content_wechat_article.md)
 
 <img src="./photo/foot.jpg" width="400"/>
 
