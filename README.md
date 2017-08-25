@@ -6,7 +6,12 @@
 本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
 
 **公众号文章分类汇总：**
-(a) [微信链接](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484025&idx=1&sn=f6fe4f6004a3f81e3eb03e6edd247ebb&chksm=ea8b6d0addfce41c5b2a6cf731648fae41d5ae81a9bb670b1c2338058362880934e3fa7b2972#rd)  (b) [github链接](https://github.com/leenard2017/PyDataRoad/blob/master/Content_wechat_article.md)
+
+(a) [文章分类汇总](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484025&idx=1&sn=f6fe4f6004a3f81e3eb03e6edd247ebb&chksm=ea8b6d0addfce41c5b2a6cf731648fae41d5ae81a9bb670b1c2338058362880934e3fa7b2972#rd)
+
+(b) [精华文章推荐](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484074&idx=1&sn=cb6174702fe8f495a37df8a74ef30ffe&chksm=ea8b6dd9ddfce4cffc0ea8aa1c3b5c51cf3623b2ae6b43ae7f7e0c5ab8a8db70d5f05f967eaf&scene=21#wechat_redirect)
+
+
 
 <img src="./photo/foot.jpg" width="400"/>
 
